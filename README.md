@@ -35,6 +35,6 @@ The overall average Income of our customers is $56,360.00. The Average for custo
 
 ## Dashboard
 This is the inerface for the interactive dashboard
-<img src="https://github.com/user-attachments/assets/567b2f89-8de2-4f1c-a1c7-db11fc4a9375" alt="Gender Segment" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/567b2f89-8de2-4f1c-a1c7-db11fc4a9375" alt="Dashboard" width="1000" height="500">
 
 
