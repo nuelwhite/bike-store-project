@@ -11,3 +11,14 @@ One major benefit of data analysis is the power to derive insights from data. Da
 
 ## Tools :computer: 
 In this project I used Microsoft Excel as my analysis tool. Excel is a powerful tool for analysis. It has loads and lots of analytical functions that help in analyzing data. It has great features that enable visualization. Incredible charts, and Pivot Tables that allow an analyst to group data and analyze them.
+
+## Analysis
+### 1. What is the Gender distribution of customers segment?
+   There are 1000 distinct data in the dataset. 511 of the customers were Males :man:, contributing to 51.1% of the entries. And There are 489 customers which are Females :woman:, also constributing to 48.9% of the total entries.
+
+### 2. How many Male, or Female customers bought or did not buy a bike?
+   I found that 51.90% percent of the customers that came to the store did not buy a bike. 25% of them were females and 26.90% were male demographics. 48.10% of the customers bought a bike, and 24.20% were males whereas 23.90% were females. 
+We can deduce that majority of the customers were enquirers, and majority were Males with 269 customers to 250 for the Females. And majority of our sales were from Males with 242 sales with 239 for Females.
+![image](https://github.com/user-attachments/assets/57d979d3-4b02-4101-b057-0dc8bd9e7769)
+
+
